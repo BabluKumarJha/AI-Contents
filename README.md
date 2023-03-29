@@ -4,7 +4,7 @@
 - [x] Bert and sentiment analysis project
 - [x] Transformers + Spacy + NER project
 - [x] Docker + aws ec2 + open-sourcing on GitHub
-- [x] [Torchvision and facial keypoint detection project](https://drive.google.com/file/d/1774_WiXiq51jSJp9XzAr9sg4ECnfg4NV/view?usp=sharing)
+- [x] Torchvision and facial keypoint detection project - [watch ▶️](https://drive.google.com/file/d/1774_WiXiq51jSJp9XzAr9sg4ECnfg4NV/view?usp=sharing)
 - [x] Torchaudio and speech recognition project
 
 # Math
@@ -12,7 +12,7 @@
 ## Calculus
 
 - [x] Ordinary derivatives
-- [x] [Gradients](https://drive.google.com/file/d/14p3M_E7qmIfK9xAu1CTU6VcDExXNPv6S/view?usp=sharing)
+- [x] Gradients     - [watch ▶️](https://drive.google.com/file/d/14p3M_E7qmIfK9xAu1CTU6VcDExXNPv6S/view?usp=sharing)
 - [x] Del Operator
 - [x] Divergence
 - [x] Curl
@@ -25,6 +25,6 @@
 - [x] Different types of matrices and properties
 - [x] Cayley-Hamilton theorem
 - [x] Diagonalization of matrix
-- [x] [Functions of matrix](https://drive.google.com/file/d/1CF3pVG-KLD9tCGQoZisstsdYhQWUslLM/view?usp=sharing)
+- [x] Functions of matrix - [watch ▶️](https://drive.google.com/file/d/1CF3pVG-KLD9tCGQoZisstsdYhQWUslLM/view?usp=sharing)
 
 
