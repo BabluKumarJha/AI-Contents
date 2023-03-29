@@ -4,7 +4,7 @@
 - [x] Bert and sentiment analysis project
 - [x] Transformers + Spacy + NER project
 - [x] Docker + aws ec2 + open-sourcing on GitHub
-- [x] [Torchvision and facial keypoint detection project](https://drive.google.com/file/d/1CF3pVG-KLD9tCGQoZisstsdYhQWUslLM/view?usp=sharing)
+- [x] [Torchvision and facial keypoint detection project](https://drive.google.com/file/d/1774_WiXiq51jSJp9XzAr9sg4ECnfg4NV/view?usp=sharing)
 - [x] Torchaudio and speech recognition project
 
 # Math
