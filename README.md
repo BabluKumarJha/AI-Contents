@@ -12,7 +12,7 @@
 ## Calculus
 
 - [x] Ordinary derivatives
-- [x] [Gradients](https://drive.google.com/file/d/1UAwsC9cIjCr_Z6fRd5sKkI2Hn8ZZA9n7/view?usp=sharing)
+- [x] [Gradients](https://drive.google.com/file/d/14p3M_E7qmIfK9xAu1CTU6VcDExXNPv6S/view?usp=sharing)
 - [x] Del Operator
 - [x] Divergence
 - [x] Curl
