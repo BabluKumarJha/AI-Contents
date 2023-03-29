@@ -1,3 +1,5 @@
+The following is the content that I created as a freelance AI content consultant.
+
 # AI-Content
 
 - [x] Pytorch intro and logistic regression project
