@@ -1,4 +1,4 @@
-# AI-Contents
+# AI-Content
 
 - [x] Pytorch intro and logistic regression project
 - [x] Bert and sentiment analysis project
