@@ -1,3 +1,8 @@
+
+
+[PyTorch Series Playlist](https://www.youtube.com/watch?v=rHLMi2f85Vk&list=PLYYmRv5_pOH-3sEqvHgUZnyxAn5sTjkuB)
+
+
 # AI-Content
 
 - [x] Pytorch intro and logistic regression project
